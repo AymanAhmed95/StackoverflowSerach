@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Search Stackoverflow</string>
+    <string name="question_title_prompt">Enter question title</string>
+    <string name="errorMSG">An Error occurred </string>
+</resources>
